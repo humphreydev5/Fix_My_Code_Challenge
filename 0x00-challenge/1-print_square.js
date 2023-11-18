@@ -21,3 +21,4 @@ for (let i = 0 ; i < size ; i ++) {
     }
     process.stdout.write("\n");
 }
+
